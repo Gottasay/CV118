@@ -1,0 +1,4 @@
+Использование веб-камеры:
+python app.py camera
+Использование видеофайла:
+python app.py video.mp4
